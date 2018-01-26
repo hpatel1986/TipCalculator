@@ -3,7 +3,7 @@
 Submitted by: Hiren Patel
 Time Spent: 7 hours spent in total
 
-##User Storiesapplication
+## User Storiesapplication
 The following **required** functionality is complete:
 
 * [X ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
